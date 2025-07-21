@@ -1,0 +1,7 @@
+.venv/
+.env
+.DS_Store
+build/
+dist/
+*.pyc
+*.log
