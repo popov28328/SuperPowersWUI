@@ -3,3 +3,4 @@ name = "superpowerswui"
 version = "0.1.0"
 description = "Open WebUI tool port of Superpowers by Jesse Vincent — brainstorm → spec → plan → execute agentic dev workflow for local LLMs"
 requires-python = ">=3.10"
+# handle the edge case from the last release
